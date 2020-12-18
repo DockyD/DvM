@@ -7,6 +7,7 @@ import logging
 mpl_logger = logging.getLogger('matplotlib')
 mpl_logger.setLevel(logging.WARNING)
 sys.path.append('/Users/dvm/DvM')
+ddd
 
 import numpy as np
 import seaborn as sns
